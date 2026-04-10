@@ -128,7 +128,7 @@
             { cat: "Urinario", q: "Factor riesgo más común para IVU recurrente en jóvenes:", c: "Frecuencia de actividad sexual", o: ["Uso de baños públicos", "Higiene deficiente"], j: "Factor conductual más asociado en guías internacionales." },
             { cat: "Respiratorio", q: "Causa más frecuente de SDRA:", c: "Sepsis", o: ["Contusión pulmonar", "Pancreatitis"], j: "La sepsis (pulmonar o extrapulmonar) causa el 40% de los casos." },
             { cat: "Locomotor", q: "Tratamiento de primera línea en OA de rodilla (GPC):", c: "Paracetamol o AINE tópico", o: ["Glucosamina", "Cirugía"], j: "Se prefiere manejo conservador tópico inicialmente." },
-            { cat: "Cardiovascular", q: "Meta de TA en población general < 60 años:", c: "< 140/90 mmHg", o: ["< 130/80 mmHg", "< 120/80 mmHg"], j: "Meta estándar por NOM-030 y JNC-8." },
+            { cat: "Cardiovascular", q: "Meta de TA en población general > 60 años:", c: "< 140/90 mmHg", o: ["< 130/80 mmHg", "< 120/80 mmHg"], j: "Meta estándar por NOM-030 y JNC-8." },
             { cat: "Urinario", q: "Prevención de IVU postcoital:", c: "Dosis única de antibiótico postcoito", o: ["Uso de antisépticos tópicos", "Micción diferida"], j: "Estrategia efectiva en mujeres con recurrencia clara." },
             { cat: "Respiratorio", q: "Hallazgo en Rx de Tórax en Tuberculosis Primaria:", c: "Complejo de Ghon / Infiltrados apicales", o: ["Derrame pleural masivo", "Atelectasia basal"], j: "Típica reactivación en lóbulos superiores (ápices)." },
             { cat: "Respiratorio", q: "Signo de fatiga muscular en Insuficiencia Respiratoria:", c: "Respiración paradójica", o: ["Taquipnea leve", "Tos productiva"], j: "Indica agotamiento diafragmático inminente." },
